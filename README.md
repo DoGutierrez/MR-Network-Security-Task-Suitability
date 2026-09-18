@@ -2,7 +2,7 @@
 
 # Reproducibility Materials
 
-This repository contains the anonymized participant data, study materials, and analysis scripts for the study "Evaluating Mixed Reality for Spatial and Analytical Network Security Tasks."
+This repository contains the anonymized participant data and analysis scripts for the study "Evaluating Mixed Reality for Spatial and Analytical Network Security Tasks."
 
 ## Data
 
